@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    text-align: center;
+    margin-top: 2rem;
+}
+.nav p{
+    margin-top: 2rem;
+}
+body{
+    background-color: brown;
+    color: white;
+}
+.timer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.timer input{
+    width: 3rem;
+    margin: 0 0.5rem;
+    height: 2rem;
+    border-radius: 10px ;
+    border: 0 solid ;
+    text-align: center;
+    
+}
